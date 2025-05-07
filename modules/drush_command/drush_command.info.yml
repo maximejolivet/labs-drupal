@@ -1,0 +1,5 @@
+name: Drush Command
+type: module
+description: Create Custom Drush command
+core_version_requirement: ^10 || ^11
+package: Labs
